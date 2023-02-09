@@ -1,2 +1,2 @@
-# calculadora
-Estoy probando mi calculadora para aprender javaScript
+# Calculadora
+Estoy probando subir archivos a Github. 
